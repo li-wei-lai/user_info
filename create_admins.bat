@@ -1,0 +1,6 @@
+@echo off
+echo 正在创建管理员账号...
+python create_all_admins.py
+echo.
+echo 按任意键退出...
+pause > nul 
